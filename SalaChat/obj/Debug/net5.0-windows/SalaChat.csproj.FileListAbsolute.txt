@@ -1,0 +1,34 @@
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\bin\Debug\net5.0-windows\SalaChat.exe
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\bin\Debug\net5.0-windows\Imagen\menu (3).png
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\bin\Debug\net5.0-windows\Imagen\sonrisa.png
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\bin\Debug\net5.0-windows\SalaChat.deps.json
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\bin\Debug\net5.0-windows\SalaChat.runtimeconfig.json
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\bin\Debug\net5.0-windows\SalaChat.runtimeconfig.dev.json
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\bin\Debug\net5.0-windows\SalaChat.dll
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\bin\Debug\net5.0-windows\ref\SalaChat.dll
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\bin\Debug\net5.0-windows\SalaChat.pdb
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\obj\Debug\net5.0-windows\SalaChat.csproj.AssemblyReference.cache
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\obj\Debug\net5.0-windows\SalaChat.Form1.resources
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\obj\Debug\net5.0-windows\SalaChat.csproj.GenerateResource.cache
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\obj\Debug\net5.0-windows\SalaChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\obj\Debug\net5.0-windows\SalaChat.AssemblyInfoInputs.cache
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\obj\Debug\net5.0-windows\SalaChat.AssemblyInfo.cs
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\obj\Debug\net5.0-windows\SalaChat.csproj.CoreCompileInputs.cache
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\obj\Debug\net5.0-windows\SalaChat.dll
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\obj\Debug\net5.0-windows\ref\SalaChat.dll
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\obj\Debug\net5.0-windows\SalaChat.pdb
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\obj\Debug\net5.0-windows\SalaChat.genruntimeconfig.cache
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\bin\Debug\net5.0-windows\Imagen\Enviar.png
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\bin\Debug\net5.0-windows\Imagen\Mic.png
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\bin\Debug\net5.0-windows\Imagen\Enter.gif
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\bin\Debug\net5.0-windows\Imagen\gif.png
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\bin\Debug\net5.0-windows\Imagen\BOOK.gif
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\bin\Debug\net5.0-windows\Imagen\Man.gif
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\bin\Debug\net5.0-windows\Imagen\women.gif
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\bin\Debug\net5.0-windows\Imagen\Plus.gif
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\bin\Debug\net5.0-windows\Imagen\chat.ico
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\bin\Debug\net5.0-windows\Imagen\send.png
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\bin\Debug\net5.0-windows\Imagen\smiling.png
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\bin\Debug\net5.0-windows\Imagen\new chat.gif
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\obj\Debug\net5.0-windows\SalaChat.Properties.Resources.resources
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\SalaChat\SalaChat\bin\Debug\net5.0-windows\Imagen\close.png
